@@ -9,10 +9,12 @@
 ## What is the Distribution of Salary by Year?
 
 ! [BoxPlot](images/BoxPlot.png)
-    IQR for the data set is $87,000
-        First quartile is $100,000
-        Second quartile is $140,000
-        Third quartile is $187,000
+
+IQR for the data set is $87,000
+First quartile is $100,000
+Second quartile is $140,000
+Third quartile is $187,000
+
     From the box plot to the right, we can see each box increase on a yearly basis, with the exception of 2023 → 2024.
 
     This leads us to believe that the salaries for new entrants in the data scientist field are increasing.
