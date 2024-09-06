@@ -5,6 +5,15 @@
 
 ![size_country](images/size_country.png)
 
+Comparing these two charts we can assume that there is no relationship
+Just looking at the US and IN would be misleading
+Countries such as AU and LT make the lack of relation apparent 
+
+What we can assume is that there another variable that influences a country's average salary.
+Country’s level of development
+Country’s cost of living
+
+
 ## Who offers more remote work? Large or small companies?
 
 ![remote_company_size](images/remote_company_size.png) ![size_salaries](images/size_salaries.png)
