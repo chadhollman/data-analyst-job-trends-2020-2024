@@ -1,12 +1,12 @@
 # project-one group-5
-#Trends in Data Science Jobs from 2020 to 2024
+# Trends in Data Science Jobs from 2020 to 2024
 
-#Size vs Location
+## Size vs Location
 
-Who offers more remote work? Large or small companies?
+## Who offers more remote work? Large or small companies?
     The dataset suggests that larger and medium-sized companies are actually offering less remote work, however the tradeoff seems to be that they offer much higher salaries than small companies.
 
-What is the Distribution of Salary by Year?
+## What is the Distribution of Salary by Year?
     IQR for the data set is $87,000
         First quartile is $100,000
         Second quartile is $140,000
@@ -21,19 +21,19 @@ What is the Distribution of Salary by Year?
     
     Otherwise, we note that the dataset does not have any extreme variances to the downside.
 
-What is the trend in Average Salary by Experience Level?
+## What is the trend in Average Salary by Experience Level?
     The Data Table on the right presents the average salaries by work experience from 2020-2024. There is a positive increase in salary across the board. 2021 numbers are skewed due to COVID, taking that into account we can observe steady growth. 
 
     The Bar Graph showcases the combined average salaries by work experience for 2020 through 2024. From this, we can see that the more experience obtained in Data Science profession - the higher the salary. 
 
-What is in the future for data science jobs in the US?
+## What is in the future for data science jobs in the US?
     Linear regression analysis was used to determine salary patterns (2020-2024) for top 3 data science jobs (most counts) in US (only entry level results are shown)
 
     There was no association between year and salary per year (USD) from 2020-2024 for top 3 data science jobs in US at the entry level (R2 = 0.06)
 
     While a similar pattern was noted regardless of job title, more positions became available in 2023 and 2024 (top histogram) for entry level positions, with similar salaries per year (USD) (right histogram)
 
-Assumptions and Limitations
+## Assumptions and Limitations
     Our data is on a yearly basis, except for 2024, which only includes data  through March 2024.
 
     While nearly 15,000 records long, our dataset only contains 4 full years of data.
