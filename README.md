@@ -8,7 +8,7 @@
 
 ## What is the Distribution of Salary by Year?
 
-! (images/BoxPlot.png)
+! [BoxPlot](images/BoxPlot.png)
     IQR for the data set is $87,000
         First quartile is $100,000
         Second quartile is $140,000
