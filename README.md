@@ -4,6 +4,8 @@
 ## Size vs Location
 
 ## Who offers more remote work? Large or small companies?
+
+![remote_company_size](images/remote_company_size.png) ![size_salaries](images/size_salaries.png)
 The dataset suggests that larger and medium-sized companies are actually offering less remote work, however the tradeoff seems to be that they offer much higher salaries than small companies.
 
 ## What is the Distribution of Salary by Year?
