@@ -3,6 +3,8 @@
 
 ## Size vs Location
 
+![size_country](images/size_country.png)
+
 ## Who offers more remote work? Large or small companies?
 
 ![remote_company_size](images/remote_company_size.png) ![size_salaries](images/size_salaries.png)
