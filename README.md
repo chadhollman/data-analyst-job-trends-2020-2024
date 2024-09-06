@@ -8,7 +8,7 @@ The dataset suggests that larger and medium-sized companies are actually offerin
 
 ## What is the Distribution of Salary by Year?
 
-[BoxPlot](images/BoxPlot.png)
+![BoxPlot](images/BoxPlot.png)
 
 IQR for the data set is $87,000
 
