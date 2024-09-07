@@ -15,7 +15,7 @@
     A results summary showed that the IQR for the data set was $87,000, and the first, second and third quartiles were $100,000, $140,000 and $187,000, respectively. The box plot shows an increase in salary on a yearly basis, with the exception of 2023 to 2024. Data also suggests that the salaries for new entrants (entry level) in the data scientist field are increasing. It is important to note that 2024 has several outliers. In addition, unlike years 2020 through 2023, we need to acknowledge that 2024 only contains data reported up to March. Notably, the outliers observed in 2024 will no longer be outliers if this trend persists in the future. Otherwise, we note that the dataset does not have any extreme variances.
 
 ## What is the Trend in Average Salary by Experience Level?
-![experience_salaries](images/experience_salaries.png) ![Average Salary by Experience DF](images/Average Salary by Experience DF.jpg)
+![experience_salaries](images/experience_salaries.png) 
     The data table summarizes the average salaries by work experience from 2020-2024. Results showed an overall increase in average salary. Numbers for year 2021 may be skewed due to COVID pandemic affecting data science jobs. The bar graph showcases the combined average salaries by work experience from 2020 through 2024. In addition, results suggest that the more experience obtained in Data Science professions, the higher the salary
 
 ## What is in the Future for Data Science Jobs in the US?
