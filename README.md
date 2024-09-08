@@ -3,7 +3,7 @@
 ## The following research questions were addressed using the data set found in https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024
 
 ## Is There a Relationship Between a Country’s Average Salary and its Percentage of Company Size?
-![size_country](images/size_country.png)
+![size_country](images/size_country.png) ![salary_size_by_country](images/salary_size_by_country.png)
 
 Results from this analysis suggest no relationship between average salary and country, and looking at specific countries such as the US and IN would be misleading and may not be used to generalized relationships between average salary and country. Countries such as AU and LT make the lack of relation apparent. It is possible that additional variables not reported in the dataset may be influencing a country's average salary (e.g., country’s level of development and cost of living).
 
