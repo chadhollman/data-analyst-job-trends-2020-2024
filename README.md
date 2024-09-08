@@ -9,7 +9,10 @@ Results from this analysis suggest no relationship between average salary and co
 ## Who Offers More Remote Work Options? Large or Small Companies?
 ![remote_company_size](images/remote_company_size.png) ![size_salaries](images/size_salaries.png)
 
-The dataset suggests that larger and medium-sized companies are offering less remote work options with the tradeoff that they offer much higher salaries than small companies.
+The dataset suggests that smaller companies are offering the most remote however, they don’t pay nearly as much on average as large and medium sized companies
+
+The difference in pay between medium and larger companies is very small, however, medium companies do have a slight edge in both pay and remote opportunities
+
 
 ## What is the Distribution of Salary by Year?
 ![BoxPlot](images/BoxPlot.png)
