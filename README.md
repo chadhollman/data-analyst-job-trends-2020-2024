@@ -1,7 +1,7 @@
 
 # Trends in Data Science Jobs from 2020 to 2024 (project-one group-5) 
 ## The following research questions were addressed using the data set found in https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024
-
+## Slide presentation: https://docs.google.com/presentation/d/1Ltaix-_9OWu78gt8OLpUOoZeph8Q6kYCf8U6DkC5V4U/edit#slide=id.p
 ## Is There a Relationship Between a Country’s Average Salary and its Percentage of Company Size?
 ![size_country](images/size_country.png) ![salary_size_by_country](images/salary_size_by_country.png)
 
